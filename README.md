@@ -1,25 +1,25 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h1 align="center">Hi😎, I'm Rohit Sharma</h1>
 💫 About Me:
-<br>💡 Software Engineer | AI Engineer | Web3 Innovator <br><br>  
-I build **scalable backend systems, AI-driven applications, and decentralized solutions** that push technology forward. <br><br>  
-**Strengths:** <br>  
+<br>Software Engineer | AI Engineer | Web3 Innovator <br><br>  
+I build scalable backend systems, AI-driven applications, and decentralized solutions that push technology forward. <br><br>  
+Strengths: <br>  
 - Backend Engineering (Node.js, Go, Python) – Designing microservices & high-performance APIs <br>  
 - Artificial Intelligence & ML – NLP, CV, Generative AI, Speech (TTS/STT), and predictive models <br>  
 - Blockchain & Web3 – Smart contracts, DeFi, DApps, and decentralized innovation <br>  
 - Cloud & DevOps – Docker, Kubernetes, CI/CD, and multi-cloud deployments (AWS, Azure, GCP) <br>  
-- Hackathon-Grade Innovation – Rapid prototyping & disruptive solutions in healthtech, fintech, edtech <br><br>  ## 🤝 Let’s Collaborate On <br>  
+- Hackathon-Grade Innovation – Rapid prototyping & disruptive solutions in healthtech, fintech, edtech <br><br>  🤝 Let’s Collaborate On <br>  
 - Advanced AI/ML models (NLP, CV, Generative AI) <br>  
 - Web3 solutions for real-world social impact & business applications <br>  
 - Backend architectures built to scale (Node.js, Go, microservices) <br>  
 - Hackathon-winning prototypes in healthcare, fintech, and beyond <br><br>  
 
-## 🌱 Always Learning <br>  
+ 🌱 Always Learning <br>  
 - Advanced Backend Systems & cloud-native architectures <br>  
 - Cutting-edge AI frameworks & applied ML research <br>  
 - Web3 & Blockchain ecosystems (DeFi, NFTs, DAOs) <br><br>  
 
-## ⚡ Fun Fact <br>  
+⚡ Fun Fact <br>  
 I balance **heavy coding with heavy lifting** — if I’m not scaling systems, I’m scaling weights. <br>  
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
