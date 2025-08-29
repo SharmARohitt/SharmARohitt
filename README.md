@@ -1,7 +1,26 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h1 align="center">Hi😎, I'm Rohit Sharma</h1>
 💫 About Me:
-<br>💡 I'm looking to collaborate on:<br>Web3 and Blockchain: Exploring decentralized technologies for social good and business applications.<br>AI and Machine Learning: Building cutting-edge models in text-to-speech (TTS), speech-to-text (STT), and more.<br>Cloud Computing and DevOps: Collaborating on large-scale cloud infrastructure and deployment projects.<br>Hackathons: If you're working on impactful hackathon ideas in healthcare, fintech, edtech, or open innovation—let’s collaborate!<br>🤝 I'm looking for help with:<br>Blockchain and Web3 Projects: Specifically with smart contracts, decentralized finance (DeFi), and NFT projects.<br>Scaling Impact Innovators: Developing partnerships with NGOs, startups, and tech communities.<br>Innovative Backend Solutions: Efficient and scalable microservices architectures in Node.js or Go (Golang).<br>🌱 I'm currently learning:<br>Backend Development (JavaScript): From basic to advanced to power up web applications.<br>Cloud Computing & DevOps: Gaining expertise in containerization (Docker, Kubernetes) and cloud platforms (AWS, Azure, GCP).<br>Machine Learning and AI: Training models in NLP and computer vision using Python.<br>Blockchain (Web3): Diving into decentralized technologies for smart contracts and DApps.<br>❓ Ask me about:<br>Web Development: From frontend to full-stack solutions with React, Django, and JavaScript frameworks.<br>Hackathon Strategy: How to excel at hackathons, build innovative ideas, and present them for maximum impact.<br>AI and ML: NLP, computer vision, generative AI models, and how to integrate them into practical applications.<br>Tech for Social Good: How technology can be leveraged for societal impact through projects like Impact Innovators.<br>😄 Fun fact:<br>I’m a gym enthusiast who balances intense coding sessions with strength training to build muscle and stay fit. My day often involves a mix of coding for hackathons, lifting weights, and brainstorming ideas to use tech for social good!<br><br>
+<br>💡 Software Engineer | AI Engineer | Web3 Innovator <br><br>  
+I build **scalable backend systems, AI-driven applications, and decentralized solutions** that push technology forward. <br><br>  
+**Strengths:** <br>  
+- Backend Engineering (Node.js, Go, Python) – Designing microservices & high-performance APIs <br>  
+- Artificial Intelligence & ML – NLP, CV, Generative AI, Speech (TTS/STT), and predictive models <br>  
+- Blockchain & Web3 – Smart contracts, DeFi, DApps, and decentralized innovation <br>  
+- Cloud & DevOps – Docker, Kubernetes, CI/CD, and multi-cloud deployments (AWS, Azure, GCP) <br>  
+- Hackathon-Grade Innovation – Rapid prototyping & disruptive solutions in healthtech, fintech, edtech <br><br>  ## 🤝 Let’s Collaborate On <br>  
+- Advanced AI/ML models (NLP, CV, Generative AI) <br>  
+- Web3 solutions for real-world social impact & business applications <br>  
+- Backend architectures built to scale (Node.js, Go, microservices) <br>  
+- Hackathon-winning prototypes in healthcare, fintech, and beyond <br><br>  
+
+## 🌱 Always Learning <br>  
+- Advanced Backend Systems & cloud-native architectures <br>  
+- Cutting-edge AI frameworks & applied ML research <br>  
+- Web3 & Blockchain ecosystems (DeFi, NFTs, DAOs) <br><br>  
+
+## ⚡ Fun Fact <br>  
+I balance **heavy coding with heavy lifting** — if I’m not scaling systems, I’m scaling weights. <br>  
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
